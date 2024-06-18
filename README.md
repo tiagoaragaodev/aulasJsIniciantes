@@ -9,4 +9,6 @@
 <strong>Aula 2:</strong> Inserindo arquivo javascript externo.
 </li>
 <li>
+<strong>Aula 3:</strong> Criando função simples dentro do arquivo javascript.
+</li>
 </ol>
